@@ -1,0 +1,369 @@
+SearchType: S
+Lang: TW
+StartStation: NanGang
+EndStation: ZuoYing
+OutWardSearchDate: 2024/09/14
+OutWardSearchTime: 14:00
+ReturnSearchDate: 2024/09/14
+ReturnSearchTime: 14:00
+DiscountType: 
+
+
+{success: true, data: {,…}}
+data
+: 
+{,…}
+DepartureTable
+: 
+{Title: {StartStationName: "南港", EndStationName: "左營", TitleSplit1: "2024/09/14(六) 14:00",…},…}
+Title
+: 
+{StartStationName: "南港", EndStationName: "左營", TitleSplit1: "2024/09/14(六) 14:00",…}
+EndStationName
+: 
+"左營"
+StartStationName
+: 
+"南港"
+TitleSplit1
+: 
+"2024/09/14(六) 14:00"
+TitleSplit2
+: 
+"2024/09/14(六)"
+TrainItem
+: 
+[{TrainNumber: "1337", DepartureDate: "09/13", DepartureTime: "22:10", DestinationTime: "00:20",…},…]
+0
+: 
+{TrainNumber: "1337", DepartureDate: "09/13", DepartureTime: "22:10", DestinationTime: "00:20",…}
+1
+: 
+{TrainNumber: "1173", DepartureDate: "09/13", DepartureTime: "22:20", DestinationTime: "00:10",…}
+2
+: 
+{TrainNumber: "0803", DepartureDate: null, DepartureTime: "06:15", DestinationTime: "08:40",…}
+3
+: 
+{TrainNumber: "1103", DepartureDate: null, DepartureTime: "06:35", DestinationTime: "08:20",…}
+4
+: 
+{TrainNumber: "0603", DepartureDate: null, DepartureTime: "06:40", DestinationTime: "08:50",…}
+5
+: 
+{TrainNumber: "0805", DepartureDate: null, DepartureTime: "07:00", DestinationTime: "09:25",…}
+6
+: 
+{TrainNumber: "1607", DepartureDate: null, DepartureTime: "07:10", DestinationTime: "09:20",…}
+7
+: 
+{TrainNumber: "0109", DepartureDate: null, DepartureTime: "07:20", DestinationTime: "09:05",…}
+8
+: 
+{TrainNumber: "0609", DepartureDate: null, DepartureTime: "07:35", DestinationTime: "09:45",…}
+9
+: 
+{TrainNumber: "0205", DepartureDate: null, DepartureTime: "07:40", DestinationTime: "09:30",…}
+10
+: 
+{TrainNumber: "1305", DepartureDate: null, DepartureTime: "07:50", DestinationTime: "10:00",…}
+11
+: 
+{TrainNumber: "0809", DepartureDate: null, DepartureTime: "08:00", DestinationTime: "10:25",…}
+12
+: 
+{TrainNumber: "0613", DepartureDate: null, DepartureTime: "08:10", DestinationTime: "10:20",…}
+13
+: 
+{TrainNumber: "0207", DepartureDate: null, DepartureTime: "08:20", DestinationTime: "10:10",…}
+14
+: 
+{TrainNumber: "0615", DepartureDate: null, DepartureTime: "08:35", DestinationTime: "10:45",…}
+15
+: 
+{TrainNumber: "1209", DepartureDate: null, DepartureTime: "08:40", DestinationTime: "10:30",…}
+16
+: 
+{TrainNumber: "1307", DepartureDate: null, DepartureTime: "08:50", DestinationTime: "11:00",…}
+17
+: 
+{TrainNumber: "0813", DepartureDate: null, DepartureTime: "09:00", DestinationTime: "11:25",…}
+18
+: 
+{TrainNumber: "0619", DepartureDate: null, DepartureTime: "09:10", DestinationTime: "11:20",…}
+19
+: 
+{TrainNumber: "0117", DepartureDate: null, DepartureTime: "09:20", DestinationTime: "11:05",…}
+20
+: 
+{TrainNumber: "0621", DepartureDate: null, DepartureTime: "09:35", DestinationTime: "11:45",…}
+21
+: 
+{TrainNumber: "1213", DepartureDate: null, DepartureTime: "09:40", DestinationTime: "11:30",…}
+22
+: 
+{TrainNumber: "1309", DepartureDate: null, DepartureTime: "09:50", DestinationTime: "12:00",…}
+23
+: 
+{TrainNumber: "0817", DepartureDate: null, DepartureTime: "10:00", DestinationTime: "12:25",…}
+24
+: 
+{TrainNumber: "0625", DepartureDate: null, DepartureTime: "10:10", DestinationTime: "12:20",…}
+25
+: 
+{TrainNumber: "0121", DepartureDate: null, DepartureTime: "10:20", DestinationTime: "12:05",…}
+26
+: 
+{TrainNumber: "0627", DepartureDate: null, DepartureTime: "10:35", DestinationTime: "12:45",…}
+27
+: 
+{TrainNumber: "1217", DepartureDate: null, DepartureTime: "10:40", DestinationTime: "12:30",…}
+28
+: 
+{TrainNumber: "1311", DepartureDate: null, DepartureTime: "10:50", DestinationTime: "13:00",…}
+29
+: 
+{TrainNumber: "0821", DepartureDate: null, DepartureTime: "11:00", DestinationTime: "13:25",…}
+30
+: 
+{TrainNumber: "1631", DepartureDate: null, DepartureTime: "11:10", DestinationTime: "13:20",…}
+31
+: 
+{TrainNumber: "0125", DepartureDate: null, DepartureTime: "11:20", DestinationTime: "13:05",…}
+32
+: 
+{TrainNumber: "0633", DepartureDate: null, DepartureTime: "11:35", DestinationTime: "13:45",…}
+33
+: 
+{TrainNumber: "1221", DepartureDate: null, DepartureTime: "11:40", DestinationTime: "13:30",…}
+34
+: 
+{TrainNumber: "0825", DepartureDate: null, DepartureTime: "12:00", DestinationTime: "14:25",…}
+35
+: 
+{TrainNumber: "1637", DepartureDate: null, DepartureTime: "12:10", DestinationTime: "14:20",…}
+36
+: 
+{TrainNumber: "0129", DepartureDate: null, DepartureTime: "12:20", DestinationTime: "14:05",…}
+37
+: 
+{TrainNumber: "0639", DepartureDate: null, DepartureTime: "12:35", DestinationTime: "14:45",…}
+38
+: 
+{TrainNumber: "1225", DepartureDate: null, DepartureTime: "12:40", DestinationTime: "14:30",…}
+39
+: 
+{TrainNumber: "1315", DepartureDate: null, DepartureTime: "12:50", DestinationTime: "15:00",…}
+40
+: 
+{TrainNumber: "0829", DepartureDate: null, DepartureTime: "13:00", DestinationTime: "15:25",…}
+41
+: 
+{TrainNumber: "1643", DepartureDate: null, DepartureTime: "13:10", DestinationTime: "15:20",…}
+42
+: 
+{TrainNumber: "0133", DepartureDate: null, DepartureTime: "13:20", DestinationTime: "15:05",…}
+43
+: 
+{TrainNumber: "0645", DepartureDate: null, DepartureTime: "13:35", DestinationTime: "15:45",…}
+44
+: 
+{TrainNumber: "1229", DepartureDate: null, DepartureTime: "13:40", DestinationTime: "15:30",…}
+45
+: 
+{TrainNumber: "1317", DepartureDate: null, DepartureTime: "13:50", DestinationTime: "16:00",…}
+46
+: 
+{TrainNumber: "0833", DepartureDate: null, DepartureTime: "14:00", DestinationTime: "16:25",…}
+47
+: 
+{TrainNumber: "0649", DepartureDate: null, DepartureTime: "14:10", DestinationTime: "16:20",…}
+48
+: 
+{TrainNumber: "0137", DepartureDate: null, DepartureTime: "14:20", DestinationTime: "16:05",…}
+49
+: 
+{TrainNumber: "0651", DepartureDate: null, DepartureTime: "14:35", DestinationTime: "16:45",…}
+50
+: 
+{TrainNumber: "1233", DepartureDate: null, DepartureTime: "14:40", DestinationTime: "16:30",…}
+51
+: 
+{TrainNumber: "1319", DepartureDate: null, DepartureTime: "14:50", DestinationTime: "17:00",…}
+52
+: 
+{TrainNumber: "0837", DepartureDate: null, DepartureTime: "15:00", DestinationTime: "17:25",…}
+53
+: 
+{TrainNumber: "0655", DepartureDate: null, DepartureTime: "15:10", DestinationTime: "17:20",…}
+54
+: 
+{TrainNumber: "0141", DepartureDate: null, DepartureTime: "15:20", DestinationTime: "17:05",…}
+55
+: 
+{TrainNumber: "0657", DepartureDate: null, DepartureTime: "15:35", DestinationTime: "17:45",…}
+56
+: 
+{TrainNumber: "1237", DepartureDate: null, DepartureTime: "15:40", DestinationTime: "17:30",…}
+57
+: 
+{TrainNumber: "1321", DepartureDate: null, DepartureTime: "15:50", DestinationTime: "18:00",…}
+58
+: 
+{TrainNumber: "0841", DepartureDate: null, DepartureTime: "16:00", DestinationTime: "18:25",…}
+59
+: 
+{TrainNumber: "0661", DepartureDate: null, DepartureTime: "16:10", DestinationTime: "18:20",…}
+60
+: 
+{TrainNumber: "0145", DepartureDate: null, DepartureTime: "16:20", DestinationTime: "18:05",…}
+61
+: 
+{TrainNumber: "0663", DepartureDate: null, DepartureTime: "16:35", DestinationTime: "18:45",…}
+62
+: 
+{TrainNumber: "1241", DepartureDate: null, DepartureTime: "16:40", DestinationTime: "18:30",…}
+63
+: 
+{TrainNumber: "1323", DepartureDate: null, DepartureTime: "16:50", DestinationTime: "19:00",…}
+64
+: 
+{TrainNumber: "0845", DepartureDate: null, DepartureTime: "17:00", DestinationTime: "19:25",…}
+65
+: 
+{TrainNumber: "0667", DepartureDate: null, DepartureTime: "17:10", DestinationTime: "19:20",…}
+66
+: 
+{TrainNumber: "0149", DepartureDate: null, DepartureTime: "17:20", DestinationTime: "19:05",…}
+67
+: 
+{TrainNumber: "0669", DepartureDate: null, DepartureTime: "17:35", DestinationTime: "19:45",…}
+68
+: 
+{TrainNumber: "1245", DepartureDate: null, DepartureTime: "17:40", DestinationTime: "19:30",…}
+69
+: 
+{TrainNumber: "1325", DepartureDate: null, DepartureTime: "17:50", DestinationTime: "20:00",…}
+70
+: 
+{TrainNumber: "0849", DepartureDate: null, DepartureTime: "18:00", DestinationTime: "20:25",…}
+71
+: 
+{TrainNumber: "0673", DepartureDate: null, DepartureTime: "18:10", DestinationTime: "20:20",…}
+72
+: 
+{TrainNumber: "0153", DepartureDate: null, DepartureTime: "18:20", DestinationTime: "20:05",…}
+73
+: 
+{TrainNumber: "0675", DepartureDate: null, DepartureTime: "18:35", DestinationTime: "20:45",…}
+74
+: 
+{TrainNumber: "0249", DepartureDate: null, DepartureTime: "18:40", DestinationTime: "20:30",…}
+75
+: 
+{TrainNumber: "0853", DepartureDate: null, DepartureTime: "19:00", DestinationTime: "21:25",…}
+76
+: 
+{TrainNumber: "1679", DepartureDate: null, DepartureTime: "19:10", DestinationTime: "21:20",…}
+77
+: 
+{TrainNumber: "0157", DepartureDate: null, DepartureTime: "19:20", DestinationTime: "21:05",…}
+78
+: 
+{TrainNumber: "0681", DepartureDate: null, DepartureTime: "19:35", DestinationTime: "21:45",…}
+79
+: 
+{TrainNumber: "1253", DepartureDate: null, DepartureTime: "19:40", DestinationTime: "21:30",…}
+80
+: 
+{TrainNumber: "0857", DepartureDate: null, DepartureTime: "20:00", DestinationTime: "22:25",…}
+81
+: 
+{TrainNumber: "1685", DepartureDate: null, DepartureTime: "20:10", DestinationTime: "22:20",…}
+82
+: 
+{TrainNumber: "0161", DepartureDate: null, DepartureTime: "20:20", DestinationTime: "22:05",…}
+83
+: 
+{TrainNumber: "0687", DepartureDate: null, DepartureTime: "20:35", DestinationTime: "22:45",…}
+84
+: 
+{TrainNumber: "0861", DepartureDate: null, DepartureTime: "21:00", DestinationTime: "23:25",…}
+85
+: 
+{TrainNumber: "0165", DepartureDate: null, DepartureTime: "21:20", DestinationTime: "23:05",…}
+86
+: 
+{TrainNumber: "0693", DepartureDate: null, DepartureTime: "21:30", DestinationTime: "23:40",…}
+87
+: 
+{TrainNumber: "0333", DepartureDate: null, DepartureTime: "21:45", DestinationTime: "23:55",…}
+88
+: 
+{TrainNumber: "0295", DepartureDate: null, DepartureTime: "22:05", DestinationTime: "23:59",…}
+DestinationTable
+: 
+{Title: {StartStationName: null, EndStationName: null, TitleSplit1: null, TitleSplit2: null},…}
+Title
+: 
+{StartStationName: null, EndStationName: null, TitleSplit1: null, TitleSplit2: null}
+EndStationName
+: 
+null
+StartStationName
+: 
+null
+TitleSplit1
+: 
+null
+TitleSplit2
+: 
+null
+TrainItem
+: 
+[]
+PriceTable
+: 
+{Coach: ["$1530", "$765", "$1450"], Business: ["$2500", "$1250", "$2375"],…}
+Business
+: 
+["$2500", "$1250", "$2375"]
+0
+: 
+"$2500"
+1
+: 
+"$1250"
+2
+: 
+"$2375"
+Coach
+: 
+["$1530", "$765", "$1450"]
+0
+: 
+"$1530"
+1
+: 
+"$765"
+2
+: 
+"$1450"
+Column
+: 
+[]
+Unreserved
+: 
+["$1480", "$740", "-"]
+0
+: 
+"$1480"
+1
+: 
+"$740"
+2
+: 
+"-"
+success
+: 
+true
